@@ -13,3 +13,4 @@ Autodesk 3dsmax maxscript code source. Small useful tools and short programs for
 
 ## List of scripts:
 - multiple camera merger into one [cameramerger.ms](cameramerger.ms)
+- convert images in path to plane objects with same size [texturetoplanes.ms](texturetoplanes.ms)
